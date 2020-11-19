@@ -77,7 +77,7 @@ div.profile{
     float: left;
     background-color: rgb(255,255,255,0.75);
     border: chocolate 5px solid;
-    padding: 20px 100px 20px 100px;
+    padding: 20px 100px 10px 100px;
     margin: 10px auto 10px 100px;
 }
 
@@ -107,7 +107,7 @@ div.family{
     float: right;
     background-color: rgb(255,255,255,0.75);
     border: chocolate 5px solid;
-    padding: 20px 100px 95px 100px;
+    padding: 20px 100px 85px 100px;
     margin: 10px 100px 10px auto;
 }
 
@@ -127,6 +127,36 @@ div.family b{
     font-weight: 600;
 }
 
+/* education */
+div.education{
+    clear: both;
+    background-image: url("../image/education.png"),url("../image/rst.png"),url("../image/kmutt&sit.png");
+    background-repeat: no-repeat,no-repeat,no-repeat;
+    background-position-x: 350px,720px,580px;
+    background-position-y: 5px,210px,280px;
+    background-size: 100px,60px,200px;
+    float: left;
+    background-color: rgb(255,255,255,0.75);
+    border: chocolate 5px solid;
+    padding: 20px 100px 20px 100px;
+    margin: 20px auto 20px 100px;
+}
+
+div.education h1{
+    font-size: 30px;
+    border-left: chocolate 3px solid ;
+    border-bottom: chocolate 1px solid;
+    font-weight: 800;
+    margin-right: 400px;
+}
+
+div.education b{
+    font-size: 18px;
+    border-left: chocolate 2px solid;
+    border-bottom: chocolate 1px solid;
+    margin-right: 10px;
+    font-weight: 600;
+}
 /* credit */
 div.credit{
     background-image: url("../image/call.png");
@@ -143,7 +173,7 @@ div.credit{
     padding: 10px 20px;
 }
 
-div.credit a{
+a{
     text-decoration: none;
 }
 

@@ -133,8 +133,8 @@ div.education{
     background-image: url("../image/education.png"),url("../image/rst.png"),url("../image/kmutt&sit.png");
     background-repeat: no-repeat,no-repeat,no-repeat;
     background-position-x: 350px,720px,580px;
-    background-position-y: 5px,210px,280px;
-    background-size: 100px,60px,200px;
+    background-position-y: 5px,210px,300px;
+    background-size: 100px,50px,150px;
     float: left;
     background-color: rgb(255,255,255,0.75);
     border: chocolate 5px solid;

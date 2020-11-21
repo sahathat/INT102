@@ -25,8 +25,8 @@ div.skill {
     background-image: url("../image/coding-program.png"),url("../image/logical.png");
     background-repeat: no-repeat,no-repeat;
     background-size: 200px,200px;
-    background-position-x: 600px,900px;
-    background-position-y: 100px,100px;
+    background-position-x: 900px,900px;
+    background-position-y: 300px,600px;
     background-color: rgb(255,255,255,0.75);
     border: chocolate 5px solid;
     padding: 20px 100px;
@@ -51,21 +51,21 @@ li blue{
 
 li normal {
     border: black 2px solid;
-    background-color: yellow !important;
+    background-color: orange !important;
     font-size: 20px !important;
     letter-spacing: 50px;
 }
 
 li good {
     border: black 2px solid;
-    background-color: lime !important;
+    background-color: lightgreen !important;
     font-size: 20px !important;
     letter-spacing: 50px;
 }
 
 li verygood {
     border: black 2px solid;
-    background-color: cyan !important;
+    background-color: lightblue !important;
     font-size: 20px !important;
     letter-spacing: 50px;
 }

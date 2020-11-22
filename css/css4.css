@@ -1,0 +1,41 @@
+/*activity*/
+div.activity {
+    padding: 20px 100px;
+    margin: 20px 100px;
+}
+
+div.activity h2{
+    font-size: 30px;
+    border-left: chocolate 3px solid;
+    border-bottom: chocolate 1px solid;
+    font-weight: 800;
+    margin-right: 800px;
+}
+
+table,th,td {
+    background-color: orange;
+    border: brown 3px solid;
+    border-collapse: collapse;
+    padding: 5px 20px ;
+    text-align: center;
+    /*border-collapse: จะทำให้borderที่เเสดงผลนั้นติดกันนิยมมากในการทำtable;*/
+    /*reference: url("https://www.w3schools.com/css/css_table.asp;")*/
+}
+
+table,th {
+    background-color: chocolate;
+  }
+
+/* certificate */
+div.certificate {
+    padding: 20px 100px;
+    margin: 20px 200px;
+}
+
+div.certificate h2{
+    font-size: 30px;
+    border-left: chocolate 3px solid ;
+    border-bottom: chocolate 1px solid;
+    font-weight: 800;
+    margin-right: 200px;
+}

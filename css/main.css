@@ -42,22 +42,21 @@ span a{
 }
 span a:link{
     color: white;
-    background-color: darkorange;
+    background-color: chocolate;
     padding: 5px 10px;
 }
 span a:visited{
     color: white;
-    background-color: brown;
     padding: 5px 10px;
 }
 span input:focus{
     color: white;
-    background-color: chocolate;
+    background-color: brown;
     padding: 5px 10px;
 }
 span a:hover{
     color: white;
-    background-color: coral;
+    background-color: brown;
     padding: 5px 10px;
 }
 span a:active{

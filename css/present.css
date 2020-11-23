@@ -1,0 +1,53 @@
+/*portface*/
+div.portface {
+    background-image: url("../image/shape1.png") , url("../image/shape3.png");
+    background-size: 100px , 100px;
+    background-repeat: repeat-x, repeat-x;
+    background-position-x: center, center;
+    background-position-y: 100px, 300px;
+    background-color: rgb(255, 165, 0,.5);
+    margin-left: 100px;
+    margin-right: 200px;
+    padding: 3em;
+    padding-bottom: 500px;
+    
+}
+
+div.portface img {
+    float: left;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    border: chocolate 5px solid;
+}
+
+/*present*/
+div.portface .present {
+    float: right;
+    background-color: seashell;
+    border: chocolate 5px solid;
+    margin: 100px 100px 0px 0px;
+    padding: 1px;
+    text-align: left;
+}
+
+div.present h1{
+    background-color: rgb(255, 165, 0);
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: 800;
+    font-size: 30px;
+    border-left: chocolate 3px solid;
+}
+
+div.present b{
+    background-color: rgb(255, 165, 0 , .5);
+    font-size: 18px;
+    border-left: chocolate 2px solid;
+    margin-right: 10px;
+    font-weight: 400;
+}
+div.present p{
+    background-color: rgb(255, 165, 0 , .25);
+    margin-left: 50px;
+    margin-right: 50px;
+}
